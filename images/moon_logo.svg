@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130.469" height="112.23" viewBox="0 0 130.469 112.23">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d4dba2"/>
+      <stop offset="1" stop-color="#e96969"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#53ecc8"/>
+      <stop offset="1" stop-color="#e67b73"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#52a59d"/>
+      <stop offset="1" stop-color="#c38a88"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6b6b6b"/>
+      <stop offset="0" stop-color="#43809f"/>
+      <stop offset="1" stop-color="#9e938f"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-2436.015 -248.77)">
+    <path id="Subtraction_1" data-name="Subtraction 1" d="M46,92A46.012,46.012,0,0,1,28.095,3.615,45.712,45.712,0,0,1,46,0a46.678,46.678,0,0,1,5.5.325,46.005,46.005,0,0,0,0,91.349A46.678,46.678,0,0,1,46,92Z" transform="translate(2456 269)" fill="url(#linear-gradient)"/>
+    <path id="Subtraction_2" data-name="Subtraction 2" d="M46,92A46.012,46.012,0,0,1,28.095,3.615,45.712,45.712,0,0,1,46,0a46.678,46.678,0,0,1,5.5.325,46.005,46.005,0,0,0,0,91.349A46.678,46.678,0,0,1,46,92Z" transform="translate(2501.069 249.265) rotate(45)" fill="url(#linear-gradient-2)"/>
+    <path id="Subtraction_3" data-name="Subtraction 3" d="M46,92A46.012,46.012,0,0,1,28.095,3.615,45.712,45.712,0,0,1,46,0a46.678,46.678,0,0,1,5.5.325,46.005,46.005,0,0,0,0,91.349A46.678,46.678,0,0,1,46,92Z" transform="translate(2547.05 268.25) rotate(90)" fill="url(#linear-gradient-3)"/>
+    <path id="Subtraction_4" data-name="Subtraction 4" d="M46,92A46.012,46.012,0,0,1,28.095,3.615,45.712,45.712,0,0,1,46,0a46.678,46.678,0,0,1,5.5.325,46.005,46.005,0,0,0,0,91.349A46.678,46.678,0,0,1,46,92Z" transform="translate(2566.485 313.824) rotate(135)" fill="url(#linear-gradient-4)"/>
+  </g>
+</svg>
